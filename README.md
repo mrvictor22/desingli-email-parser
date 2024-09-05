@@ -1,6 +1,3 @@
-Below is the full documentation in English, as requested, for your Laravel project:
-
----
 
 # Laravel Project: SES Email Parser
 
